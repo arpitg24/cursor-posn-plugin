@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.arpitg24.cursorPos",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "cursorPosn",
+	"description": "A simple plugin that displays the index of the cursor upon a change in the note",
+	"author": "arpitg24",
+	"homepage_url": "",
+	"repository_url": "https://github.com/arpitg24/cursor-posn-plugin",
+	"keywords": []
+}
