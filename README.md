@@ -1,8 +1,11 @@
-#Plugin OverView
+# Plugin OverView
 
 This plugin displays the cursor index (starting from 0) upon making any change in the note body.
 
 NOTE: due to text debounce, the cursor position is not immediately updated.
+
+# Demo
+![demo](https://github.com/arpitg24/cursor-posn-plugin/blob/main/cursor_plugin2.gif)
 
 # Joplin Plugin
 
